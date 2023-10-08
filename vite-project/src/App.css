@@ -1,0 +1,36 @@
+body{
+    background:linear-gradient(45deg, #daa4e0, transparent) fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.BirthdayListStyle{
+    background-color:white;
+    width:40vw;
+    padding:20px;
+    margin:150px 0;
+    border-radius:5px;
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    box-shadow:rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.btn{
+  padding:10px;
+  background-color:plum;
+  border:none;
+  border-radius:5px;
+  font:bold;
+  cursor:pointer;
+  font-size:18px;
+}
+
+.imgStyle{
+    width:100px;
+    height:100px;
+    border-radius:100%;
+}
